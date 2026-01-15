@@ -13,9 +13,9 @@ La comunicazione avviene esclusivamente tramite **socket TCP** e **stream testua
 ## Funzionamento generale
 
 1. Il **client** si connette al server tramite socket TCP  
-2. L’utente inserisce le credenziali  
+2. L'utente inserisce le credenziali  
 3. Il **server** verifica username e password  
-4. Se l’autenticazione va a buon fine:
+4. Se l'autenticazione va a buon fine:
    - il client invia potenza, tempo e costo per kWh
    - il server calcola consumo e costo
    - il risultato viene restituito al client
@@ -46,9 +46,9 @@ Costo (€) = Energia × Costo_kWh
 
 ## Credenziali di test
 
-|Username|Password|
-|admin|admin|
-|user|1234|
+| Username | Password |
+| admin | admin |
+| user | 1234 |
 
 ## Documentazione
 Il progetto è completamente documentato tramite **JavaDoc**, includendo:
