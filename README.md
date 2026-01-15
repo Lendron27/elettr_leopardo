@@ -46,9 +46,9 @@ Costo (€) = Energia × Costo_kWh
 
 ## Credenziali di test
 
-| Username | Password |
-| admin | admin |
-| user | 1234 |
+| Username   | Password   |
+| admin   | admin   |
+| user   | 1234   |
 
 ## Documentazione
 Il progetto è completamente documentato tramite **JavaDoc**, includendo:
